@@ -1,0 +1,24 @@
+{
+  "name": "node_express_practise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "R.K.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raimondas-27/node_express_practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raimondas-27/node_express_practice/issues"
+  },
+  "homepage": "https://github.com/raimondas-27/node_express_practice#readme",
+  "description": "",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
